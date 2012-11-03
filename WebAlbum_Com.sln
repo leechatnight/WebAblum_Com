@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAlbum_Com_Site", "WebAlbum_Com_Site\WebAlbum_Com_Site.csproj", "{55297625-F3BF-437A-8DBF-E08296FF8315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAlbum_Com_Site.Tests", "WebAlbum_Com_Site.Tests\WebAlbum_Com_Site.Tests.csproj", "{1BDBB266-88AF-4A0A-9D83-71013D2E2047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55297625-F3BF-437A-8DBF-E08296FF8315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55297625-F3BF-437A-8DBF-E08296FF8315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55297625-F3BF-437A-8DBF-E08296FF8315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55297625-F3BF-437A-8DBF-E08296FF8315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDBB266-88AF-4A0A-9D83-71013D2E2047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDBB266-88AF-4A0A-9D83-71013D2E2047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDBB266-88AF-4A0A-9D83-71013D2E2047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDBB266-88AF-4A0A-9D83-71013D2E2047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
